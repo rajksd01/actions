@@ -1,0 +1,17 @@
+{
+  "name": "gitactions-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+  
+    "start": "node src/index.js",
+   "test":"mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mocha": "^10.7.3"
+  }
+}
